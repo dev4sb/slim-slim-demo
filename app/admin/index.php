@@ -1,11 +1,5 @@
 <?php  
-//session_start();  
-  
-//if(!$_SESSION['Email'])  
- //{  
-  //echo "not";
-  //header("Location:http://localhost/slim/slim/app/admin/form.php");  }  
- //} 
+
 ?>  
 
 
