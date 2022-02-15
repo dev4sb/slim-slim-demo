@@ -138,8 +138,8 @@ px
       <div class="modal-footer">
             <button type="submit" value="submit" name="submit" class="btn btn-success" id="sub">submit</button>
              <button type='button' id='bn_update' class='btn btn-success' style="display:none;">Update </button>
-        <button type="reset" class="btn btn-primary">Reset</button>
-        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Cancel</button>
+<!--         <button type="reset" class="btn btn-primary">Reset</button>
+ -->        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Cancel</button>
       </div>
 
 </form>
